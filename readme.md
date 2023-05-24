@@ -1,4 +1,4 @@
-Scope: fetch tweets from the certain Twitter handles and send them to a WhatsApp group
+Scope: fetch tweets from certain Twitter handles and send them to a WhatsApp group
 
 Status: on hold.
 
