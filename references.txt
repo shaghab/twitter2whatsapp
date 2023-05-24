@@ -1,0 +1,19 @@
+#other reference projects
+https://medium.com/@codesprintpro/twitter-bot-using-nodejs-c72a2a50628d
+https://github.com/ict4good/twitter-to-whatsapp-groups/tree/master
+
+#API version 2 reference
+https://github.com/PLhery/node-twitter-api-v2/blob/master/doc/examples.md
+https://developer.twitter.com/en/docs/twitter-api/tweets/search/migrate/standard-to-twitter-api-v2
+
+#twitter dev account and relevant policies
+https://developer.twitter.com/en/portal/dashboard
+https://developer.twitter.com/en/support/twitter-api/policy#faq-developer-use-case
+
+#Node refresher
+https://medium.com/@z_callan/javascript-project-architecture-constants-deddfde3c8a8
+https://levelup.gitconnected.com/set-up-and-run-a-simple-node-server-project-38b403a3dc09
+https://nodejs.dev/en/learn/introduction-to-nodejs/
+
+#others
+https://stackoverflow.com/questions/18412129/how-can-i-update-npm-on-windows
